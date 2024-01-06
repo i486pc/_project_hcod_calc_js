@@ -1,7 +1,5 @@
 # Calculator JavaScript
 
-https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br
-
 Calculator developed as an example of the Complete JavaScript Course on Udemy.com.
 
 https://www.udemy.com/course/javascript-curso-completo/
